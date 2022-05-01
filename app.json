@@ -1,6 +1,6 @@
 {
-  "name": "FileStoreBot @AvishkarPatil",
-  "description": "Telegram Media FIles Document Storing and Permanat Link Bot",
+  "name": "FileStoreBotV2",
+  "description": "Telegram Media Files Document Storing and Permanent Link Bot",
   "keywords": [
     "telegram",
     "best",
@@ -8,9 +8,9 @@
     "Files"
   ],
   "logo": "https://i.ibb.co/R2cswyL/folder.png",
-  "success_url": "https://avipatilweb.ml",
-  "website": "https://github.com/avipatilpro/FileStoreBot",
-  "repository": "https://github.com/avipatilpro/FileStoreBot",
+  "success_url": "https://telegram.me/FilmygodHindiHDMovie",
+  "website": "https://github.com/filmygod/filesavev2",
+  "repository": "https://github.com/filmygod/filesavev2",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
