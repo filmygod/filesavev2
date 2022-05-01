@@ -31,10 +31,10 @@
 <br>
 
 
-## Heroky Deploy :
-_Press the button Deploy to heroku and give the values for the config vars. 👇_
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+### Deploy Now:
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/filmygod/filesavev2)
+
 
 
 ## VPS Deploy : 
